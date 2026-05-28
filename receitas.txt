@@ -24,3 +24,10 @@ Ingredientes:
 - farinha
 - leite
 - cenoura
+
+Bananada
+
+Ingredientes:
+- banana
+- leite
+- açucar
